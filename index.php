@@ -9,5 +9,4 @@ function tot ($conn)
     return $rows[0];
 }
 tot($conn);
-
 ?>
