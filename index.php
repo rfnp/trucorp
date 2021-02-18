@@ -1,4 +1,5 @@
 <?php
+
 $conn = new mysqli("localhost","ubur","uburubur","Trucorp");
 function tot ($conn) 
 {
